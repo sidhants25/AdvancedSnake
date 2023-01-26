@@ -20,4 +20,4 @@ Background Songs:
   
 **Note that the music/sound effect files are all in the package but the destination path will have to be changed in the SnakeZoo and Board classes. (Tip: search ".wav" to find these paths).
 
-**Use the Run_Game class to launch the game in a new window.
+**Use the RUN_GAME class to launch the game in a new window.
